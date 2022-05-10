@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 ok con de
 nhap lan 2
+=======
+>>>>>>> parent of d451477 (file change)
